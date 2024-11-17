@@ -1,0 +1,21 @@
+Welcome to the Speed Typing Test! Show your skills while typing professional text content.
+
+Kasi Viswanathan is a Computer Science Engineering student at SRM University, Chennai, with a CGPA of 9.80.
+
+Experience includes:
+- Developing automation workflows using UiPath at TechMahindra, improving efficiency by 15%.
+- Enhancing friction model accuracy using Differential Evolution with Python parallel computing at Apollo Tyres.
+
+Key projects:
+- Parameter Estimation of Friction Models for autonomous vehicles.
+- Crop Yield Prediction using machine learning and data analysis.
+- StableDiffusionXL for text-to-image generation with advanced image processing techniques.
+
+Skills include Python, C++, TensorFlow, PyTorch, Pandas, and Linux.
+
+Certificates:
+- Supervised Machine Learning by Andrew Ng on Coursera.
+- AWS Machine Learning Foundations and Google Cloud Fundamentals.
+
+Test your typing speed and accuracy with this professional content!
+
